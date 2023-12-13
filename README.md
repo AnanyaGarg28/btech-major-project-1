@@ -1,5 +1,3 @@
-# Engage-22-Project-Bongrub
-
 **Wake'up. It's Food O'Clock** 🍕. 
 
 Must have heard 'Bon Appetit', a French phrase meaning 'enjoy your meal'. 
@@ -33,11 +31,11 @@ To run this code in your local machine, follow these steps:
 
 **Step 1:** Make a folder on your desktop. Open a terminal in this newly created folder to clone this repository on your machine.
 
-`git clone https://github.com/AnanyaGarg28/Engage-22-Project-Bongrub.git`
+`git clone https://github.com/AnanyaGarg28/btech-major-project-1.git`
 
 **Step 2:** Go to the project directory and install **flask**.
 
-`cd Engage-22-Project-Bongrub/`
+`cd btech-major-project-1/`
 `pip3 install flask`
 
 **Step 3:** Run the flask server. 
@@ -48,7 +46,7 @@ To run this code in your local machine, follow these steps:
 
 > Running on http://192.168.1.79:5000 (Press Ctrl+C to quit)
 
-**Step 5:** Open a new terminal in the "Engage-22-Project-Bongrub". Go to the "node app" folder and open the "app.js" file in a code editor of your choice.
+**Step 5:** Open a new terminal in the "btech-major-project-1". Go to the "node app" folder and open the "app.js" file in a code editor of your choice.
 
 `cd node\ app/`
 
